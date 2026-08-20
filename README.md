@@ -16,7 +16,7 @@ The game should start working now
 <br></br>
 Get your battery pack and solder the red wire to the vin pad at the bottom of the seeeduino xiao and solder the black wire to the gnd pad.
 <br></br>
-# MAKE SURE NOT TO USE HAVE THE BATTERY ON AND PLUG IT IN:
+<h2>MAKE SURE NOT TO USE HAVE THE BATTERY ON AND PLUG IT IN:</h2>
 <br></br>
 Next, assemble the case according to this:
 <br></br>
