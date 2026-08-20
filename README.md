@@ -10,7 +10,7 @@ Solder them using stripped jumper wires according to the above diagram.
 <br></br>
 Once soldered, plug the seeeduino xiao into the computer and click boot, and while holding boot, click reset. The upload the .uf2 file to the RP1-RP2 drive on you computer.
 <br></br>
-Open the CIRCUITPY drive and replace code.py with the code.py found in my repo. replace the lib folder with the lib folder found in my repo.
+Open the CIRCUITPY drive and replace code.py with the code.py found in my repo. Replace the lib folder with the lib folder found in my repo.
 <br></br>
 The game should start working now
 <br></br>
@@ -23,3 +23,9 @@ Next, assemble the case according to this:
 <img width="904" height="516" alt="Screenshot 2026-08-20 at 3 53 03 PM" src="https://github.com/user-attachments/assets/9a3fe16a-9505-4cac-9a14-e8a2093522ea" />
 <br></br>
 If wanted, you can print the battery case to make it look a bit nicer, but that is completely optional.
+## Images:
+<img width="665" height="855" alt="Screenshot 2026-08-20 at 2 31 46 PM" src="https://github.com/user-attachments/assets/da3247f7-c9b1-48bf-9241-dee23d9e5804" />
+<img width="1586" height="873" alt="Screenshot 2026-08-20 at 3 08 38 PM" src="https://github.com/user-attachments/assets/eda74f94-862f-49d1-9264-60de38099486" />
+<img width="917" height="875" alt="Screenshot 2026-08-20 at 2 31 50 PM" src="https://github.com/user-attachments/assets/49fff90a-d2af-490c-95e3-ed0174dbcc80" />
+<img width="955" height="732" alt="Screenshot 2026-08-20 at 2 31 52 PM" src="https://github.com/user-attachments/assets/8d575ee3-dbba-4b30-bef3-7f3f97dbbe80" />
+<img width="596" height="764" alt="Screenshot 2026-08-20 at 2 31 56 PM" src="https://github.com/user-attachments/assets/b1082595-331d-4d5d-b2cd-dff1aa3385a0" />
