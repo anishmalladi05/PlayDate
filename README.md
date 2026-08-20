@@ -23,9 +23,15 @@ Next, assemble the case according to this:
 <img width="904" height="516" alt="Screenshot 2026-08-20 at 3 53 03 PM" src="https://github.com/user-attachments/assets/9a3fe16a-9505-4cac-9a14-e8a2093522ea" />
 <br></br>
 If wanted, you can print the battery case to make it look a bit nicer, but that is completely optional.
+<br></br>
 # Images:
+<br></br>
 <img width="665" height="855" alt="Screenshot 2026-08-20 at 2 31 46 PM" src="https://github.com/user-attachments/assets/da3247f7-c9b1-48bf-9241-dee23d9e5804" />
+<br></br>
 <img width="1586" height="873" alt="Screenshot 2026-08-20 at 3 08 38 PM" src="https://github.com/user-attachments/assets/eda74f94-862f-49d1-9264-60de38099486" />
+<br></br>
 <img width="917" height="875" alt="Screenshot 2026-08-20 at 2 31 50 PM" src="https://github.com/user-attachments/assets/49fff90a-d2af-490c-95e3-ed0174dbcc80" />
+<br></br>
 <img width="955" height="732" alt="Screenshot 2026-08-20 at 2 31 52 PM" src="https://github.com/user-attachments/assets/8d575ee3-dbba-4b30-bef3-7f3f97dbbe80" />
+<br></br>
 <img width="596" height="764" alt="Screenshot 2026-08-20 at 2 31 56 PM" src="https://github.com/user-attachments/assets/b1082595-331d-4d5d-b2cd-dff1aa3385a0" />
