@@ -24,7 +24,8 @@ Next, assemble the case according to this:
 <br></br>
 If wanted, you can print the battery case to make it look a bit nicer, but that is completely optional.
 <br></br>
-# Images:
+<h1>Images:</h1>
+<br></br>
 <img width="665" height="855" alt="Screenshot 2026-08-20 at 2 31 46 PM" src="https://github.com/user-attachments/assets/da3247f7-c9b1-48bf-9241-dee23d9e5804" />
 <br></br>
 <img width="1586" height="873" alt="Screenshot 2026-08-20 at 3 08 38 PM" src="https://github.com/user-attachments/assets/eda74f94-862f-49d1-9264-60de38099486" />
